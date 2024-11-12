@@ -1,9 +1,7 @@
 # FSWAD - Q7 - Product Review System
 
 ## Database
-1. Create a MongoDB database named Reviews with fields
- ProductID, ReviewID (unique), CustomerName, Rating
- (1-5), and ReviewText.
+Create a MongoDB database named Reviews with fields ProductID, ReviewID (unique), CustomerName, Rating (1-5), and ReviewText.
 
 ## React Pages
 
